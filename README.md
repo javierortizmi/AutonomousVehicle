@@ -73,16 +73,15 @@ This is the general structure of the project. The folders LAB1, LAB2, LAB3 and L
 
 ## Installation
 
-1. `Clone` this repository.
+1. `Clone` this repository into your STM32 projects folder.
    
-2. Download this repository in your STM32 projects folder.
 ```bash 
 git clone https://github.com/javierortizmi/AutonomousVehicle.git
 ```
 
-3. Open the Project in the STM32CubeIDE.
+2. Open the Project in the STM32CubeIDE.
 
-4. Run the code in your ST Microcontroller.
+3. Run the code in your ST Microcontroller.
 
 ## License
 
